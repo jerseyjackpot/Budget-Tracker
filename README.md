@@ -21,7 +21,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## URL for Deployed Application and Screenshots
 
-[Heroku](https://pure-dawn-69469.herokuapp.com/)
+[Link to Heroku](https://pure-dawn-69469.herokuapp.com/)
 
 ![Screen Shot 2020-10-14 at 6 42 06 PM](https://user-images.githubusercontent.com/64985702/96053260-32a6e080-0e4d-11eb-8f58-2cef598070dd.png)
 
